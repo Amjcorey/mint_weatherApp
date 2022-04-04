@@ -1,0 +1,17 @@
+body {
+    background: #efefef;
+}
+
+.container {
+    border: 3px solid blueviolet;
+    border-radius: 18px;
+    box-sizing: border-box;
+    display: block;
+    text-align: center;
+    
+}
+
+ul {
+    list-style: none;
+}
+
