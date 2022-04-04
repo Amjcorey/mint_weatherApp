@@ -2,16 +2,17 @@ body {
     background: #efefef;
 }
 
-.container {
-    border: 3px solid blueviolet;
-    border-radius: 18px;
-    box-sizing: border-box;
-    display: block;
-    text-align: center;
-    
-}
-
 ul {
     list-style: none;
 }
 
+.weather-app-wrapper {
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.weather-app {
+    border: 1px solid;
+    border-radius: 18px;
+   padding: 20px;
+}
